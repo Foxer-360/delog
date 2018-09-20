@@ -1,5 +1,2 @@
 # ignore node modules
 node_modules
-
-# also ignore build. this must be removed in real package
-lib
